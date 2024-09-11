@@ -24,11 +24,12 @@ def load_data_JSON(file,type_prompt):
 
 #instead of access token could just use hugginface hub login plus access token to remove all needs of repeat entry of access token for each run
 def load_model(model_name,access):
-    tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf", use_fast=True, token=access)
+    tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True, token=access)
     quantization_config = BitsAndBytesConfig(load_in_4bit=True)
     model = AutoModelForCausalLM.from_pretrained(
-    "meta-llama/Llama-2-7b-chat-hf",
+    model_name,
     quantization_config=quantization_config,
     device_map="auto",
     token=access)
     return tokenizer,model
+#model name "meta-llama/Llama-2-7b-chat-hf"
