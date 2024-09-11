@@ -1,5 +1,8 @@
 import pandas as pd
-
+from huggingface_hub import login
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+import torch
+#generates the datafram and indivual vectors/lists for each important aspect such as prompt and Info
 def load_data_JSON(file,type_prompt):
     df = pd.read_json(file,lines = True)
     if type_prompt == 'general':
@@ -18,3 +21,14 @@ def load_data_JSON(file,type_prompt):
         gpt4 = df['hallucinated_summary']
         Info= []
     return df,prompt,correct,gpt4,Info
+
+#instead of access token could just use hugginface hub login plus access token to remove all needs of repeat entry of access token for each run
+def load_model(model_name,access):
+    tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-chat-hf", use_fast=True, token=access)
+    quantization_config = BitsAndBytesConfig(load_in_4bit=True)
+    model = AutoModelForCausalLM.from_pretrained(
+    "meta-llama/Llama-2-7b-chat-hf",
+    quantization_config=quantization_config,
+    device_map="auto",
+    token=access)
+    return tokenizer,model
