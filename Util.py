@@ -2,6 +2,7 @@ import pandas as pd
 from huggingface_hub import login
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import torch
+import csv
 #generates the datafram and indivual vectors/lists for each important aspect such as prompt and Info
 def load_data_JSON(file,type_prompt):
     df = pd.read_json(file,lines = True)
@@ -33,3 +34,8 @@ def load_model(model_name,access):
     token=access)
     return tokenizer,model
 #model name "meta-llama/Llama-2-7b-chat-hf"
+
+def write_out(filename,data):
+    with open(filename, 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerows(data)
