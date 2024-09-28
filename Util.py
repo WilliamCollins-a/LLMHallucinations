@@ -31,7 +31,7 @@ def load_model(model_name,access):
     model_name,
     quantization_config=quantization_config,
     device_map="auto",
-    token=access)
+    token=access).to("cuda" if torch.cuda.is_available() else "cpu")
     return tokenizer,model
 #model name "meta-llama/Llama-2-7b-chat-hf"
 
