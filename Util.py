@@ -35,7 +35,15 @@ def load_model(model_name,access):
     return tokenizer,model
 #model name "meta-llama/Llama-2-7b-chat-hf"
 
+def load_model_non4bit(model_name,access):
+    tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True, token=access)
+    model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    device_map="auto",
+    token=access)
+    return tokenizer,model
+
 def write_out(filename,data):
     with open(filename, 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerows(data)
+        csv_writer = csv.writer(csvfile, delimiter=';')
+        csv_writer.writerows([elt] for elt in data)
