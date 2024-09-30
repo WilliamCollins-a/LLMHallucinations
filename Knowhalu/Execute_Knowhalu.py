@@ -19,6 +19,8 @@ access = input('Access code?')
 tokenizer, model = load_model("meta-llama/Llama-2-7b-chat-hf", access)
 
 #Knowhalu method
+
+#Set up the environment
 conda create --name knowhalu python=3.8
 conda activate knowhalu
 pip install -r requirements.txt
@@ -29,9 +31,14 @@ from utils_2.py import load_data_JSON, load_model
 import pandas as pd
 from huggingface_hub import login
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
-    
+
+#Non-Fabrication Hallucination Checking
 import qa_relevance.py
+
+#Gather queries and related knowledge
 import qa_query.py --model meta-llama/Llama-2-7b-chat-hf --form semantic --topk 2 --answer_type right --knowledge_type ground --query_selection None\n",
+
+#Final judgement
 import qa_judge.py
     
 import qa_judge.py
