@@ -31,7 +31,7 @@ tokenizer, model = load_model("meta-llama/Llama-2-7b-chat-hf", access)
 
 #Knowhalu method
 
-#Set up the environment
+#Set up Conda environment
 conda create --name knowhalu python=3.8
 conda activate knowhalu
 pip install -r requirements.txt
