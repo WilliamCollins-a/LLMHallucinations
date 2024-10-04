@@ -1,3 +1,14 @@
+#Google Drive mount here
+from google.colab import drive
+drive.mount('/content/gdrive/')
+
+#enabling import of custom module for colab
+! cp /content/gdrive/MyDrive/Util.py . 
+
+#set up file location here
+import sys
+sys.path.append('/content/gdrive/MyDrive')
+
 # import libraries
 from Util import load_data_JSON, load_model, write_out
 import pandas as pd
@@ -36,9 +47,9 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import qa_relevance.py
 
 #Gather queries and related knowledge
-import qa_query.py --model meta-llama/Llama-2-7b-chat-hf --form semantic --topk 2 --answer_type right --knowledge_type ground --query_selection None\n",
+import qa_query --model meta-llama/Llama-2-7b-chat-hf --form semantic --topk 2 --answer_type right --knowledge_type ground --query_selection None\n",
 
 #Final judgement
-import qa_judge.py
+import qa_judge
     
-import qa_judge.py
+import qa_judge
