@@ -44,7 +44,7 @@ from huggingface_hub import login
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 #Non-Fabrication Hallucination Checking
-import qa_relevance.py
+import qa_relevance
 
 #Gather queries and related knowledge
 import qa_query --model meta-llama/Llama-2-7b-chat-hf --form semantic --topk 2 --answer_type right --knowledge_type ground --query_selection None\n",
