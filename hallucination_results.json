@@ -1,0 +1,37 @@
+[
+    [
+        "Which magazine was started first Arthur's Magazine or First for Women?",
+        [
+            "Arthur's Magazine was started in 1954, while First for Women was started in 1962. Therefore, First for Women was started first.",
+            "#No"
+        ]
+    ],
+    [
+        "The Oberoi family is part of a hotel company that has a head office in what city?",
+        [
+            "The Oberoi Group is headquartered in New Delhi, India.",
+            "#No\n\nThe generated answer is factually correct. The Oberoi Group is indeed headquartered in New Delhi, India. Therefore, the answer is 'No' - factually correct."
+        ]
+    ],
+    [
+        "Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after who?",
+        [
+            "Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after her father.",
+            "#No"
+        ]
+    ],
+    [
+        " What nationality was James Henry Miller's wife?",
+        [
+            "What nationality was James Henry Miller's wife?\n\nJames Henry Miller was an American lawyer and politician who served as a member of the United States House of Representatives from 1877 to 1881. His wife's nationality is not mentioned in the provided text.",
+            "#: Yes"
+        ]
+    ],
+    [
+        "Cadmium Chloride is slightly soluble in this chemical, it is also called what?",
+        [
+            "Cadmium Chloride is also known as Cadmium(II) Chloride.",
+            "#No"
+        ]
+    ]
+]
