@@ -1,0 +1,136 @@
+[
+  {
+    "question": "Born on the Fourth of July is a 1989 American biographical war drama film based on the best-selling autobiography of the same name by which Vietnam War veteran, and an American anti-war activist, writer, and former United States Marine Corps sergeant, who was wounded and paralyzed?",
+    "responses": [
+      "Tom Cruise played the lead role of Ron Kovic in the film, which was directed by Oliver Stone and co-starred Kyra Sedgwick, Robert Blake, and Jerry Levine. The film follows Kovic",
+      "Answer: Ron Kovic\n\nBorn on the Fourth of July is a 1989 American biographical war drama film based on the best-selling autobiography of the same name by Vietnam War veteran",
+      "Answer: Ron Kovic.",
+      "Born on the Fourth of July is a 1989 American biographical war drama film based on the best-selling autobiography of the same name by Vietnam War veteran and anti-war activist Ron K",
+      "Answer: Ron Kovic.\n\nBorn on the Fourth of July is a 1989 American biographical war drama film based on the best-selling autobiography of the same name by Vietnam War veter",
+      "Tom Cruise played the role of Ron Kovic in the film, for which he received a nomination for the Academy Award for Best Actor. The film also stars Raymond Carver, Kyra Sedgwick, and Willem"
+    ],
+    "semantic_ids": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "semantic_entropy": -0.0,
+    "labels": [
+      "entailment",
+      "entailment",
+      "entailment",
+      "entailment",
+      "entailment",
+      "entailment"
+    ]
+  },
+  {
+    "question": "Would the competition Bundeswettbewerb Gesang Berlin be held for the genres of light opera in even or uneven years?",
+    "responses": [
+      "The competition \"Bundeswettbewerb Gesang Berlin\" is held annually in Berlin, Germany, for singers of all ages and nationalities. The competition is open to singers in the genres of classical music, light opera",
+      "The competition is held annually in Berlin, Germany, and is open to singers aged 18 to 30. The competition is divided into two categories: soloists and ensembles. The jury consists of renowned",
+      "The competition \"Bundeswettbewerb Gesang Berlin\" is held for the genres of light opera in even years.",
+      "According to the official website of the Bundeswettbewerb Gesang Berlin (Federal Singing Competition Berlin), the competition is held annually in odd-numbered years. Therefore, the answer is (a) odd years",
+      "The Bundeswettbewerb Gesang Berlin (Federal Competition Vocal Berlin) is an annual singing competition held in Berlin, Germany. The competition is open to vocalists from all over the world and features various categories, including light",
+      "The competition Bundeswettbewerb Gesang Berlin is held annually for the genres of light opera, classical music, and musical theater. It is open to singers aged 18 to 30 and is considered one of"
+    ],
+    "semantic_ids": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "semantic_entropy": 0.45056119561195374,
+    "labels": [
+      "entailment",
+      "entailment",
+      "entailment",
+      "neutral",
+      "entailment",
+      "entailment"
+    ]
+  },
+  {
+    "question": "Which has more members,  Ray Toro or Drowners?",
+    "responses": [
+      "Ray Toro is a guitarist and songwriter for the band My Chemical Romance, and has been a member of the band since its formation in 2001.\n\nThe Drowners are an indie",
+      "Ray Toro is a guitarist and songwriter for the band My Chemical Romance, and has been involved in various other musical projects. He has been playing music professionally since the mid-1990s.",
+      "Ray Toro is a guitarist and vocalist for the band My Chemical Romance, while The Drowners are an indie rock band from Brooklyn, New York.\n\nRay Toro is the guitarist",
+      "Ray Toro is a member of the band My Chemical Romance, while Drowning is a member of the band The Drowners. My Chemical Romance has more members than The Drowners.\n\nR",
+      "Ray Toro is a guitarist and vocalist for the band My Chemical Romance. He is also a member of the band Raven Black.\n\nDrowner is an American rock band from Los Angeles, formed in"
+    ],
+    "semantic_ids": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "semantic_entropy": 5.960464477539063e-08,
+    "labels": [
+      "entailment",
+      "entailment",
+      "entailment",
+      "entailment",
+      "entailment"
+    ]
+  },
+  {
+    "question": "Which one of these artists has occasionally pursued acting, Joan Jett and Ihsahn ",
+    "responses": [
+      "Joan Jett is an American rock singer, songwriter, and guitarist who has occasionally pursued acting. Ihsahn is a Norwegian musician and artist who has occasionally pursued acting.\n\nAnswer: Joan Jett",
+      "Joan Jett has occasionally pursued acting, but Ihsahn has not. \n\nAnswer: Joan Jett",
+      "?\n\nNeither Joan Jett nor Ihsahn has occasionally pursued acting as a career. While Joan Jett has had a successful career as a rock musician, she has not ventured into acting. Ihsahn, on the",
+      "Joan Jett is a singer, songwriter, and occasional actress. She is the lead singer of the rock band Joan Jett & the Blackhearts and has had several hit songs, including \"I Love Rock 'n",
+      "or Dave Grohl?\n\nDave Grohl has occasionally pursued acting. He has appeared in several films and television shows, including \"The Office\" and \"South Park.\" Ihsahn and Joan Jett have not pursued acting",
+      "Joan Jett is an American rock guitarist, singer, songwriter, and occasional actress. She is best known for her work as the lead singer of the Blackhearts and for her chart-topping hit \"I Love"
+    ],
+    "semantic_ids": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "semantic_entropy": 0.45056119561195374,
+    "labels": [
+      "entailment",
+      "entailment",
+      "neutral",
+      "entailment",
+      "entailment",
+      "entailment"
+    ]
+  },
+  {
+    "question": "What is the Indian name meaning of the town in which Robert H. Reny opened his first store?",
+    "responses": [
+      "Robert H. Reny opened his first store in the town of Woonsocket, Rhode Island. Woonsocket is a town located in the state of Rhode Island in the United States. The name \"Woonsocket\" is",
+      "The Indian name for the town where Robert H. Reny opened his first store is \"Shawano\".",
+      "The Indian name for the town in which Robert H. Reny opened his first store is \"Shawneetown.\"",
+      "Asked by: Tiffany 175 views\nhistory india indian names robert h. reny\nThe town in which Robert H. Reny opened his first store is known as Lucknow.\nL",
+      "What is the Indian name meaning of the town in which Robert H. Reny opened his first store?\nThe Indian name for the town in which Robert H. Reny opened his first store is \"Winslow.\""
+    ],
+    "semantic_ids": [
+      0,
+      0,
+      0,
+      1,
+      2
+    ],
+    "semantic_entropy": 0.9502705335617065,
+    "labels": [
+      "entailment",
+      "entailment",
+      "entailment",
+      "contradiction",
+      "contradiction"
+    ]
+  }
+]
