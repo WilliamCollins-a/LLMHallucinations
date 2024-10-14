@@ -45,5 +45,5 @@ def load_model_non4bit(model_name,access):
 
 def write_out(filename,data):
     with open(filename, 'w', newline='') as csvfile:
-        csv_writer = csv.writer(csvfile, delimiter=';')
+        csv_writer = csv.writer(csvfile, delimiter='""')
         csv_writer.writerows([elt] for elt in data)
