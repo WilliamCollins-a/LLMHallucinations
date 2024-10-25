@@ -1,0 +1,43 @@
+{
+    "total_correct_answers": 3,
+    "total_hallucinated_answers": 2,
+    "accuracy_results": [
+        100.0,
+        100.0,
+        66.66666666666666,
+        75.0,
+        60.0
+    ],
+    "question_responses": [
+        {
+            "question": "Which magazine was started first Arthur's Magazine or First for Women?",
+            "generated_answer": "Arthur's Magazine (1844\u20131846) was started first",
+            "correct_answer": "Arthur's Magazine",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "The Oberoi family is part of a hotel company that has a head office in what city?",
+            "generated_answer": "Information: The Oberoi family is an Indian family that is famous for its involvement in hotels, namely through The Oberoi Group",
+            "correct_answer": "Delhi",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after who?",
+            "generated_answer": ", the answer to the question is Richard Nixon",
+            "correct_answer": "President Richard Nixon",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": " What nationality was James Henry Miller's wife?",
+            "generated_answer": "Information: Margaret \"Peggy\" Seeger (born June 17, 1935) is an American folksinger",
+            "correct_answer": "American",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Cadmium Chloride is slightly soluble in this chemical, it is also called what?",
+            "generated_answer": "Information:  It is a hygroscopic solid that is highly soluble in water and slightly soluble in alcohol",
+            "correct_answer": "alcohol",
+            "evaluation": "Incorrect"
+        }
+    ]
+}
