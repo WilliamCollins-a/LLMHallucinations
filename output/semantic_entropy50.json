@@ -1,0 +1,1109 @@
+[
+    {
+        "question": "Which magazine was started first Arthur's Magazine or First for Women?",
+        "responses": [
+            "Arthur's Magazine was started in 1994, while First for Women was started in 1955. Therefore, First for Women was started first.",
+            "Arthur's Magazine was started in 1977 and First for Women was started in 1977. Therefore, they were started at the same time.",
+            "Arthur's Magazine was started in 1977, while First for Women was started in 1972. Therefore, First for Women was started first.",
+            "Arthur's Magazine was started in 1977, and First for Women was started in 1975. Therefore, First for Women was started before Arthur's Magazine.",
+            "Arthur's Magazine was started in 1977, while First for Women was started in 1979. Therefore, First for Women was started first.",
+            "Arthur's Magazine was started in 1977, and First for Women was started in 1969. Therefore, First for Women was started before Arthur's Magazine."
+        ],
+        "right_answer": "Arthur's Magazine",
+        "semantic_ids": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": 0.4505612086663046,
+        "predictive_entropies": [
+            0.15193459817000582,
+            0.2986265821373876
+        ]
+    },
+    {
+        "question": "The Oberoi family is part of a hotel company that has a head office in what city?",
+        "responses": [
+            "The Oberoi family is part of a hotel company that has its head office in Mumbai, India.",
+            "\"The Oberoi family is part of a hotel company that has a head office in which city?\"\n\nThe Oberoi family is part of a hotel company called Oberoi Hotels & Resorts, which has its headquarters in New",
+            "If possible, provide the answer in the local language and language code (e.g., English or esp).\nThe Oberoi family is part of a hotel company that has a head office in Mumbai, India.",
+            "Please give the answer in words, not including abbreviations or acronyms, and provide only one answer.",
+            "The Oberoi family is part of a hotel company that has a head office in Mumbai, India."
+        ],
+        "right_answer": "Delhi",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after who?",
+        "responses": [
+            "Allie Goertz wrote a song about Milhouse from \"The Simpsons\" after Paul Krassner. Paul Krassner was an American satirist, writer, and comedian who was a prominent figure in the",
+            "Allie Goertz did not write a song about the \"The Simpsons\" character Milhouse. Matt Groening, the creator of \"The Simpsons,\" has stated that he named the character after his own classmate,",
+            "Allie Goertz wrote a song about Milhouse from \"The Simpsons\" after David Silverman.",
+            "Provide one clear answer.\nAllie Goertz wrote a song about Milhouse, who Matt Groening named after Alan Kay, a friend of Groening's from Reed College.",
+            "No more than 2 sentences.\nAllie Goertz wrote the song \"Milhouse Explains White Fellas\" which explores the complexity of Milhouse's character and the history behind Matt Groening's decision to",
+            "Allie Goertz wrote a song about Milhouse, who Matt Groening named after his own high school friend."
+        ],
+        "right_answer": "President Richard Nixon",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": " What nationality was James Henry Miller's wife?",
+        "responses": [
+            "87 words. James Henry Miller's wife was a native of the state of New York.",
+            "James Henry Miller's wife was (blank).",
+            "Answer: James Henry Miller's wife was a woman from Lithuania.",
+            "James Henry Miller's wife was a woman named Margaret. She was born in the United States and was of American nationality.",
+            "James Henry Miller's wife was American."
+        ],
+        "right_answer": "American",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Cadmium Chloride is slightly soluble in this chemical, it is also called what?",
+        "responses": [
+            "Cadmium Chloride is slightly soluble in this chemical. It is also called what?\nCadmium Chloride is slightly soluble in water.",
+            "Cadmium Chloride is slightly soluble in Water. It is also called:",
+            "Cadmium Chloride is slightly soluble in this chemical, it is also called what?\nCadmium Chloride is slightly soluble in water.",
+            "Cadmium Chloride is slightly soluble in this chemical, it is also called what?\nThe chemical that Cadmium Chloride is slightly soluble in is water.",
+            "Cadmium Chloride is slightly soluble in what?\nCadmium Chloride is slightly soluble in water.",
+            "Your answer should be one or two sentences long.\nCadmium Chloride is slightly soluble in what?\n\nCadmium Chloride is also known as what?\n\nI will be happy to assist you"
+        ],
+        "right_answer": "alcohol",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?",
+        "responses": [
+            "Please ensure that your answer is in English and includes only correct and relevant information.\n\nAnswer: Henri Leconte won more Grand Slam titles than Jonathan Stark. Henri Leconte won 4 Grand Slam titles, while Jonathan St",
+            "30 words or less.\nHenri Leconte won 3 Grand Slam titles, while Jonathan Stark won 2 Grand Slam titles. Therefore, Henri Leconte won more Grand Slam titles than Jonathan Stark.",
+            "Please help me.",
+            "Henri Leconte won 2 Grand Slam titles, and Jonathan Stark won 0 Grand Slam titles. Therefore, Henri Leconte won more Grand Slam titles than Jonathan Stark.",
+            "Include a source or reference for verification, if necessary.\nHenri Leconte won 4 Grand Slam titles, while Jonathan Stark won 2 Grand Slam titles. Therefore, Henri Leconte won more Grand Slam",
+            "Henri Leconte won 3 Grand Slam titles in his career, while Jonathan Stark won 2 Grand Slam titles in his career. Therefore, Henri Leconte won more Grand Slam titles than Jonathan Stark."
+        ],
+        "right_answer": "Jonathan Stark",
+        "semantic_ids": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        "cluster_entropy": 0.6365141680948128,
+        "predictive_entropies": [
+            0.2703100602597623,
+            0.3662040972023281
+        ]
+    },
+    {
+        "question": "Which genus of moth in the world's seventh-largest country contains only one species?",
+        "responses": [
+            "The genus of moth found only in Australia is known as Xylina. Xylina contains only one species, Xylina latifolia, which is commonly known as the \"fiddler\" moth. This species is found throughout Australia,",
+            "A single species of moth belonging to the genus Elaphria is endemic to the country of Canada, specifically found in the western provinces of British Columbia and Alberta. This species, known as Elaphria bombila, is also the only",
+            "The answer is one sentence long.\n\nThe genus of moth found only in Mongolia is called \"Mongolica\".",
+            "The genus of moth in the world's seventh-largest country that contains only one species is Limia. This genus is found in China and its only species is the Chinese Freshwater Moth (Limia cinerea).",
+            "The genus of moth in the world's seventh-largest country that contains only one species is Satrapa. Satrapa elatermes is the only species found in Australia."
+        ],
+        "right_answer": "Crambidae",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his \"unsportsmanlike conducts\" in the sport and crimes of violence outside of the ring.",
+        "responses": [
+            "Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his \"unsportsmanlike conducts\" in the sport and crimes of violence outside of the ring",
+            "Muhammad Ali, also known as Cassius Clay, was once considered the best kickboxer in the world. However, he has been involved in several controversies related to unsportsmanlike conducts in the sport and crimes",
+            "Muhammad \"Conan\" Nejad, a former kickboxer from Belgium, was once considered the best fighter in the sport. However, he has been involved in several controversies related to unsportsmanlike conduct",
+            "Who was once considered the best kick boxer in the world? Answer: It was Semion Mush from Israel. Mush was a three-time World Championships gold medalist and held the world record for the most consecutive title defenses in kick",
+            "Muhammad \"Conan\" Neer was once considered the best kickboxer in the world. However, he has been involved in several controversies related to unsportsmanlike conducts in the sport and crimes of violence outside"
+        ],
+        "right_answer": "Badr Hari",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "The Dutch-Belgian television series that \"House of Anubis\" was based on first aired in what year?",
+        "responses": [
+            "The Dutch-Belgian television series that \"House of Anubis\" was based on first aired in 2006.",
+            "The Dutch-Belgian television series that \"House of Anubis\" was based on, \"Smultron\", first aired in 2007.",
+            "The Dutch-Belgian television series that \"House of Anubis\" was based on first aired in 2001.",
+            "The Dutch-Belgian television series that \"House of Anubis\" was based on first aired in 2007.",
+            "The Dutch-Belgian television series \"House of Anubis\" was based on \"Skin Walkers,\" which first aired in 2005."
+        ],
+        "right_answer": "2006",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "cluster_entropy": 0.5004024233381879,
+        "predictive_entropies": [
+            0.17851492439901542,
+            0.32188757522175365
+        ]
+    },
+    {
+        "question": "What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?",
+        "responses": [
+            "The length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged is 6.215 kilometers (3.86 miles).",
+            "The length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged is approximately 6.213 kilometers (3.86 miles).",
+            "Answer: The track where the 2013 Liqui Moly Bathurst 12 Hour was staged is 6.2135 kilometers (3.86 miles) long.",
+            "The length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged is 6.2135 kilometers.",
+            "If the answer is exact, include the numerical value or units.\nThe length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged is 6.21 kilometers (3",
+            "The length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged is approximately 6.213 kilometers."
+        ],
+        "right_answer": "6.213 km long",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?",
+        "responses": [
+            "Fast Cars, Danger, Fire, and Knives includes guest appearances from hip hop record executive JAY Z.",
+            "Fast Cars, Danger, Fire, and Knives includes guest appearances from which hip hop record executive?\nThe answer is:\nJAY-Z.",
+            "The question to be answered is: Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?",
+            "Fast Cars, Danger, Fire, and Knives includes guest appearances from which hip hop record executive?\nJay-Z appears as a guest on the track \"Fast Cars\" from the album \"Danger, Fire"
+        ],
+        "right_answer": "Jaime Meline",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Gunmen from Laredo starred which narrator of \"Frontier\"?",
+        "responses": [
+            "The gunmen from Laredo starred which narrator of \"Frontier\"?\nThe gunmen from Laredo starred Johnny Cash as the narrator of \"Frontier\".",
+            "The gunmen from Laredo starred which narrator of \"Frontier\"? The gunmen from Laredo starred Gary Busey as the narrator of \"Frontier\".",
+            "Gunmen from Laredo starred which narrator of \"Frontier\"?\nThe gunmen from Laredo starred Jason Momoa as the narrator of the television series \"Frontier.\"",
+            "The gunmen from Laredo starred which narrator of \"Frontier\"?\nThe gunmen from Laredo starred Billy Bob Thornton as the narrator of the film \"Frontier\".",
+            "Your answer must include at least one correct detail about the show or the characters involved."
+        ],
+        "right_answer": "Walter Darwin Coy",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Where did the form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originate?",
+        "responses": [
+            "Be sure to format your answer using proper nouns and punctuation.\nWhere did the form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originate?\nDie Rh\u00f6ner S\u00e4uw\u00e4ntzt,",
+            "The form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originated in the Swabian region of southwestern Germany, particularly in the towns of Ulm and Memmingen, during the early 14th century",
+            "The form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originated in the Swiss Alps, specifically in the region of Graub\u00fcnden. This region has a long history of traditional folk music, which has been passed down",
+            "The form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originated in the Black Forest region of Germany in the 18th century.",
+            "The form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originated in the Alps region of Europe. Specifically, it emerged in the Swiss Alps during the 18th century and was influenced by traditional folk",
+            "The form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originated in the late 19th century in the Swiss Alps. Specifically, it emerged in the mountain villages of Bern and Valais, where traditional"
+        ],
+        "right_answer": "United States",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "In which American football game was Malcolm Smith named Most Valuable player?",
+        "responses": [
+            "Malcolm Smith was named Most Valuable Player (MVP) in Super Bowl III. This game was played on January 15, 1969, and the New York Jets defeated the Baltimore Colts 1",
+            "Malcolm Smith was named Most Valuable Player in Super Bowl III.\nSuper Bowl III was played on January 15, 1969, and the New York Jets defeated the Baltimore Colts 16-",
+            "Malcolm Smith was named Most Valuable Player (MVP) in Super Bowl III in 1969.",
+            "Malcolm Smith was named Most Valuable Player in Super Bowl III.",
+            "Malcolm Smith was named Most Valuable Player (MVP) in Super Bowl III. Super Bowl III was played on January 15, 1967, and the game was between the New York Jets and the"
+        ],
+        "right_answer": "Super Bowl XLVIII",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?",
+        "responses": [
+            "No more than 30 words.\nHighway 60 provides access to Zilpo Road and is also known as Midland Trail.",
+            "Please ensure your answer is at least 2 sentences long.",
+            "U.S. Highway 60 gives access to Zilpo Road and is also known as Midland Trail."
+        ],
+        "right_answer": "US 60",
+        "semantic_ids": [
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?",
+        "responses": [
+            "The four-time Academy Award nominee, Dan Aykroyd, received a star on the Hollywood Walk of Fame in 1997.",
+            "The answer can be a number, a year, or a concise statement of fact.",
+            "The four-time Academy Award nominee received a star on the Hollywood Walk of Fame in 1992.",
+            "The four-time Academy Award nominee, Dan Aykroyd, received his star on the Hollywood Walk of Fame in 1997."
+        ],
+        "right_answer": "2006",
+        "semantic_ids": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "cluster_entropy": 0.5623351444188083,
+        "predictive_entropies": [
+            0.21576155433883568,
+            0.34657359027997264
+        ]
+    },
+    {
+        "question": "What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? ",
+        "responses": [
+            "Name the three members of the current band who wrote the music for Hurt Locker The Musical.\n\nAnswer:\nThe three members of the current band who wrote the music for Hurt Locker The Musical are:\n\n1.",
+            "The names of the current members of the American heavy metal band who wrote the music for The Hurt Locker Musical are:\n\nJeremy Saulnier\n\nMark DeRobbio\n\nGavin Maitland",
+            "The names of the current members of the American heavy metal band who wrote the music for Hurt Locker The Musical are: Jerome Sleicher (lead vocals, rhythm guitar) John Deaux (lead guitar) Dante R",
+            "The current members of the American heavy metal band who wrote the music for Hurt Locker The Musical are:\n\n* Robb Nenwald - lead vocals, guitar\n* Chris Hodges - lead vocals, guitar\n*",
+            "The current members of the American heavy metal band who wrote the music for Hurt Locker The Musical are:\n\n* Robert Hanson - lead vocals, guitar\n* John Lee - lead guitar, backing vocals\n* Alex Rodriguez",
+            "The current members of the American heavy metal band who wrote the music for Hurt Locker The Musical are:\n\n* Rob Zombie - lead vocals, guitar\n* Marilyn Manson - lead vocals, guitar\n* Tim"
+        ],
+        "right_answer": "Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Human Error\" is the season finale of the third season of a tv show that aired on what network?",
+        "responses": [
+            "The season finale of the third season of \"Human Error\" aired on the AMC network.",
+            "Human Error is the season finale of the third season of a TV show that aired on the AMC network.",
+            "Human Error is the season finale of the third season of a TV show that aired on Netflix."
+        ],
+        "right_answer": "Fox",
+        "semantic_ids": [
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single \"New Rules\" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?",
+        "responses": [
+            "Do not provide personal opinions or perspectives.\nDua Lipa's eponymous debut studio album, which includes the number-one single \"New Rules,\" was released in 2017.",
+            "Dua Lipa's album \"Dua Lipa\" was released in 2017 and contained the number-one single \"New Rules\".",
+            "Dua Lipa's song \"New Rules\" was released in 2017.",
+            "Dua Lipa's eponymous debut studio album was released in 2017. Therefore, the song \"New Rules\" is from the year 2017."
+        ],
+        "right_answer": "2017",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?",
+        "responses": [
+            "Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of Nevada.",
+            "The politician's last name is not specified in the prompt. Please answer only if you are familiar with the politician Joe Heck and his campaign against Catherine Cortez Masto. If you are not familiar, please decline or do not answer",
+            "No extra language or grammar is required, and the answer should be written in a formal and professional tone. The answer is: Nevada. Joe Heck ran unsuccessfully against Catherine Cortez Masto, a woman who previously served as the",
+            "Joe Heck ran unsuccessfully against Catherine Cortez Masto, a woman who previously served as Attorney General of Nevada.",
+            "Joe Heck ran unsuccessfully against Catherine Cortez Masto in the 2016 U.S. Senate election in Nevada."
+        ],
+        "right_answer": "Nevada",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Which state does the drug stores, of which the CEO is Warren Bryant, are located?",
+        "responses": [
+            "The drug stores operated by Warren Bryant are located in the state of Texas.",
+            "Warren Bryant is the CEO of CVS Health, which is a retail pharmacy chain that operates in several states across the United States. The exact states where CVS Health operates are:\n\n\u2022",
+            "The drug stores operated by Warren Bryant are located in Texas.",
+            "The drug stores operated by Warren Bryant are located in North Carolina. Specifically, they are located in the cities of Raleigh, Durham, and Charlotte, which are all cities located in the state of North Carolina.",
+            "No more than 30 words.\nThe drug stores operated by Warren Bryant are located in the state of Texas.",
+            "Please keep in mind that the question is asking for a geographic location, and it would be inappropriate to provide any personal information about the CEO.\n\nWarren Bryant is the CEO of which state-based drug"
+        ],
+        "right_answer": "Hawaii",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Which  American politician did Donahue replaced ",
+        "responses": [
+            "Rush Limbaugh replaced Ronald Reagan.",
+            "Donahue replaced Ronald Reagan as the Governor of California.",
+            "Marvin Liebman replaced Paul Coverdell as chair of the Securities and Exchange Commission in 1981, and James Donahue replaced Marvin Liebman in 1984. So, James Don",
+            "Ed Schemmer replaced Ronald Reagan, who was replaced by Donald Regan, who was replaced by James Watt, who was replaced by John Donahue. Therefore, John Donahue replaced Ronald Reagan."
+        ],
+        "right_answer": "Kelli Ward",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?",
+        "responses": [
+            "The information you provide should be verifiable through a reputable source.",
+            "Hole was founded first, in 1987, by Kurt Cobain and Krist Novoselic. The Wolfhounds were formed in 1984 by Dale Crover and Mike Dillard. Therefore,",
+            "Hole was founded before The Wolfhounds. Hole was formed in 1987 by Courtney Love, Eric Erlandson, and Patty Schemel, while The Wolfhounds were formed in 199"
+        ],
+        "right_answer": "The Wolfhounds",
+        "semantic_ids": [
+            0,
+            1,
+            0
+        ],
+        "cluster_entropy": 0.6365141680948128,
+        "predictive_entropies": [
+            0.2703100602597623,
+            0.3662040972023281
+        ]
+    },
+    {
+        "question": "How old is the female main protagonist of Catching Fire?",
+        "responses": [
+            "The female main protagonist of Catching Fire is 25 years old.",
+            "The female main protagonist of Catching Fire is 24 years old.",
+            "You should provide a single answer to the question. What is the age of Katniss Everdeen at the start of Mockingjay?"
+        ],
+        "right_answer": "16-year-old",
+        "semantic_ids": [
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Chang Ucchin was born in korea during a time that ended with the conclusion of what? ",
+        "responses": [
+            "Please clarify any unclear aspects.\nChang Ucchin was born in Korea during a time that ended with the conclusion of the Korean War in 1953.",
+            "Chang Ucchin was born in Korea during a time that ended with the conclusion of the Korean War in 1953."
+        ],
+        "right_answer": "World War II",
+        "semantic_ids": [
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?",
+        "responses": [
+            "Please be concise and polite. There is only one director of the 2003 film with scenes filmed at the Quality Cafe, and that is Martin Scorsese.",
+            "The director of the 2003 film with scenes filmed at the Quality Cafe in Los Angeles is Paul Thomas Anderson.",
+            "You may use any source you trust, such as the film's Wikipedia page or a review from a reputable source.\nThe director of the 2003 film which has scenes in it filmed at the Quality Cafe",
+            "Joon-Ho Huh is the director of the 2003 film in which scenes were filmed at the Quality Cafe in Los Angeles.",
+            "The film director of the 2003 film with scenes filmed at the Quality Cafe in Los Angeles is Paul Thomas Anderson.",
+            "The film is \"Lost in Translation\" by Sofia Coppola.\n\nWho is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?"
+        ],
+        "right_answer": "Todd Phillips",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?",
+        "responses": [
+            "Answer: New Faces of 1952 helped jump start the career of a young performer and American actress named Carol Lawrence.",
+            "New Faces of 1952 is a musical revue that helped jump start the career of which young performer and American actress?\nTammy Grimes",
+            "New Faces of 1952 was a musical revue that helped launch the career of which young performer and American actress?\nThe young performer and American actress who benefited from the New Faces of 195",
+            "New Faces of 1952 is a musical revue with songs and comedy skits that helped jump start the career of which young performer and American actress?\nThe young performer and American actress who benefited from the New",
+            "New Faces of 1952 is a musical revue with songs and comedy skits that helped jump-start the career of which young performer and American actress?\nThe young performer and American actress who benefited from the",
+            "New Faces of 1952 is a musical revue that helped jump start the career of which young performer and American actress?\nThe young performer and American actress whose career was jump started by New Faces of 1"
+        ],
+        "right_answer": "Carol Lawrence",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Were Pavel Urysohn and Leonid Levin known for the same type of work?",
+        "responses": [
+            "Pavel Urysohn and Leonid Levin were both mathematicians who made significant contributions to various fields of mathematics. While both were active in the early 20th century and shared some common interests, they were known for different types",
+            "Yes, Pavel Urysohn and Leonid Levin were known for the same type of work. Both were mathematicians who made significant contributions to the field of combinatorial mathematics, particularly in the areas of combinatorial topology and graph theory",
+            "Pavel Urysohn and Leonid Levin were both prominent mathematicians of the early 20th century who made significant contributions to several areas of mathematics. While both mathematicians were known for their work in various fields, they were",
+            "No, Pavel Urysohn and Leonid Levin were not known for the same type of work.\nPavel Urysohn was a Russian mathematician known for his contributions to topology, including the Urysoh",
+            "Pavel Urysohn and Leonid Levin were both Soviet mathematicians who made significant contributions to different fields within mathematics. Pavel Urysohn is best known for his work in topology and functional analysis, particularly the Urysohn",
+            "Pavel Urysohn and Leonid Levin were both mathematician"
+        ],
+        "right_answer": "no",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Are both The New Pornographers and Kings of Leon American rock bands?",
+        "responses": [
+            "Are both The New Pornographers and Kings of Leon American rock bands? Yes, both The New Pornographers and Kings of Leon are American rock bands. The New Pornographers are a Canadian indie rock band, but their",
+            "Both The New Pornographers and Kings of Leon are indeed American rock bands. The New Pornographers are from Vancouver, British Columbia, Canada, while Kings of Leon are from Nashville, Tennessee, USA. While",
+            "Yes, both The New Pornographers and Kings of Leon are American rock bands. The New Pornographers are from Vancouver, British Columbia, Canada, but their music is heavily influenced by American indie rock and power pop,",
+            "For example: The New Pornographers are a Canadian indie rock band from Vancouver, BC, not an American rock band.",
+            "Are The New Pornographers and Kings of Leon American rock bands?\nNo, The New Pornographers are not an American rock band. They are a Canadian indie rock band from Vancouver, British Columbia, formed in"
+        ],
+        "right_answer": "no",
+        "semantic_ids": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": 0.5004024233381879,
+        "predictive_entropies": [
+            0.17851492439901542,
+            0.32188757522175365
+        ]
+    },
+    {
+        "question": "750 7th Avenue and 101 Park Avenue, are located in which city?",
+        "responses": [
+            "750 7th Avenue and 101 Park Avenue are located in New York City.",
+            "There are no other details or information that can be provided. You must use a single city name. Please answer accurately and without hesitation.",
+            "The answers are:\n750 7th Avenue and 101 Park Avenue are located in New York City.",
+            "This question is about two specific addresses in New York City.\n\nThe two addresses mentioned are 750 7th Avenue and 101 Park Avenue. These addresses are located in which city?\n\nAnswer: New York City",
+            "This is a simple yes or no question. What is the city where 750 7th Avenue and 101 Park Avenue are located?"
+        ],
+        "right_answer": "New York City",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Which actress played the part of fictitious character Kimberly Ann Hart, in the franchise built around a live action superhero television series taking much of its footage from the Japanese tokusatsu 'Super Sentai'?",
+        "responses": [
+            "Which actress played the part of Kimberly Ann Hart in the Power Rangers franchise?\nThe actress who played the part of Kimberly Ann Hart in the Power Rangers franchise is Amy Jo Johnson.",
+            "Answer: Amy Jo Johnson.",
+            "The actress who played the part of Kimberly Ann Hart in the Power Rangers franchise is Amy Jo Johnson.",
+            "(100 characters)\nThe actress who played the part of Kimberly Ann Hart in the Power Rangers franchise is Amy Jo Johnson.",
+            "The information you provide should come from reputable sources such as books, official websites, or academic journals. The answer will be used in a research project.\n\nAnswer: Yasmine Bleeth played the part of Kimberly Ann",
+            "The actress who played the part of Kimberly Ann Hart in the 'Power Rangers' franchise is Amy Jo Johnson."
+        ],
+        "right_answer": "Amy Jo Johnson",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Who was born first, Pablo Trapero or Aleksander Ford?",
+        "responses": [
+            "Use the person's name in English, if applicable, to add clarity and accuracy.\n\nPablo Trapero was born on March 1, 1977. Aleksander Ford was born on June 22,",
+            "Please read the question carefully and provide a short and concise answer.\nPablo Trapero was born on August 1, 1968, in Misiones, Argentina. Aleksander Ford was born on July 26",
+            "Pablo Trapero was born on October 20, 1968, in Buenos Aires, Argentina. Aleksander Ford was born on May 31, 1930, in Warsaw, Poland. Therefore",
+            "Please help.",
+            "If you are unable to answer a question, let the teacher know. I will provide the answer in a few minutes."
+        ],
+        "right_answer": "Aleksander Ford",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Are Jane and First for Women both women's magazines?",
+        "responses": [
+            "Are Jane and First for Women both women's magazines? Jane is a fashion and beauty magazine that covers global trends and styles. First for Women is a magazine that focuses on issues relevant to older women, such as health, fin",
+            "Jane and First for Women are both women's magazines. Yes, they are both targeted towards women and cover similar topics such as fashion, beauty, and lifestyle. However, they have some key differences in their focus",
+            "Jane and First for Women are both women's magazines, but they have some differences. Jane is a monthly magazine that covers fashion, beauty, health, and lifestyle topics, while First for Women is a fortnight",
+            "Yes, Jane and First for Women are both women's magazines. They are both published in South Africa and cater to a predominantly female audience, providing content on lifestyle, fashion, beauty, and health, as",
+            "Jane and First for Women are both women's magazines, but they are not the same magazine. Jane is a monthly magazine that focuses on women's health, wellness, and lifestyle, while First for",
+            "Please note that this is an example of a multiple-choice question, but you may choose to answer in a different format if preferred.\n\nYes, Jane and First for Women are both women's magazines.\n\nHere is"
+        ],
+        "right_answer": "yes",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "What profession does Nicholas Ray and Elia Kazan have in common?",
+        "responses": [
+            "50 words or less.\nBoth Nicholas Ray and Elia Kazan are film directors.",
+            "Nicholas Ray and Elia Kazan are both film directors.",
+            "Nicholas Ray and Elia Kazan are both film directors. They both have directed many successful movies and have had a significant impact on the film industry. However, they have a profession in common beyond their work as directors.",
+            "You can use a maximum of 100 words to answer the question.\nNicholas Ray and Elia Kazan are film directors. They share the profession of filmmaking, as both have directed numerous films in the United States"
+        ],
+        "right_answer": "director",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Where is the company that purchased Aixam based in?",
+        "responses": [
+            "50 words or less.\nThe company that purchased Aixam is based in France.",
+            "The company that purchased Aixam is based in France.",
+            "The company that purchased Aixam is based in France. Aixam is a French automobile manufacturer that was founded in 1983 and has been based in Anzin, France since its inception. Therefore, the company that",
+            "50 words or less.\n\nAixam is a French car manufacturer. The company that purchased Aixam is based in Luxembourg.",
+            "The company that purchased Aixam is based in France. Specifically, Aixam's parent company is located in the city of Romans-sur-Is\u00e8re in the Dr\u00f4me department of southeastern France."
+        ],
+        "right_answer": "Roseau, Minnesota, USA",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Which documentary is about Finnish rock groups, Adam Clayton Powell or The Saimaa Gesture?",
+        "responses": [
+            "Your answer should be 25-100 words long, and it should provide the name of the documentary and the year it was released. For example: \"The documentary about Finnish rock groups is 'The Saimaa Gest",
+            "There is no documentary about Finnish rock groups titled \"Adam Clayton Powell\" or \"The Saimaa Gesture.\" These titles do not exist in the realm of documentary filmmaking. Therefore, the answer is neither",
+            "The two documentaries you have mentioned are not about Finnish rock groups. Adam Clayton Powell is a documentary about the life of the African American politician and Baptist minister Adam Clayton Powell Jr., who was a member of the U",
+            "The documentary is about Finnish rock groups.",
+            "This documentary is about Finnish rock groups and is called The Saimaa Gesture. It explores the unique sound of Finnish rock and the different cultural identities of Finnish rock musicians. Released in 2020",
+            "The documentary about Finnish rock groups is \"The Saimaa Gesture\"."
+        ],
+        "right_answer": "The Saimaa Gesture",
+        "semantic_ids": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            2
+        ],
+        "cluster_entropy": 0.8675632281814611,
+        "predictive_entropies": [
+            0.2703100602597623,
+            0.2986265821373876,
+            0.2986265821373876
+        ]
+    },
+    {
+        "question": "Who was inducted into the Rock and Roll Hall of Fame, David Lee Roth or Cia Berg?",
+        "responses": [
+            "Who was inducted into the Rock and Roll Hall of Fame? David Lee Roth was inducted into the Rock and Roll Hall of Fame in 2001. Cindy Lauper was also inducted in 2008.",
+            "I do not have personal preferences, nor do I have the ability to watch or listen to any music. However, I can provide information on the careers of the two individuals mentioned in the question. According to the Rock and Roll Hall of Fame",
+            "David Lee Roth was inducted into the Rock and Roll Hall of Fame in 2007. Cindy Lauper was not inducted into the Rock and Roll Hall of Fame. Therefore, the answer is David Lee Roth.",
+            "David Lee Roth was inducted into the Rock and Roll Hall of Fame in 2007. Cia Berg was not inducted into the Rock and Roll Hall of Fame.",
+            "David Lee Roth was inducted into the Rock and Roll Hall of Fame in 2000. Cari Berg was not inducted into the Rock and Roll Hall of Fame."
+        ],
+        "right_answer": "David Lee Roth",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Zimbabwe's Guwe Secondary School has a sister school in what New York cunty?",
+        "responses": [
+            "Please limit your answer to 50 words or less.\nGuwe Secondary School in Zimbabwe has a sister school in New York County, New York.",
+            "Please limit your answer to one or two sentences and provide your source if possible.\nGuwe Secondary School has a sister school in New York county, specifically in the Bronx. (Source: Zimbabwe Schools Project, 2",
+            "Zimbabwe's Guwe Secondary School has a sister school in New York City.",
+            "Guwe Secondary School in Zimbabwe has a sister school in which New York county?\nGuwe Secondary School in Zimbabwe has a sister school in Manhattan County, New York.",
+            "50 words or less.\nGuwe Secondary School has a sister school in Westchester County, New York."
+        ],
+        "right_answer": "Nassau County",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "The Royal Commission into Drug Trafficking (1977\u20131979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the New South Wales Police and Mafia, The Honoured Society, is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of which country?  ",
+        "responses": [
+            "The Royal Commission into Drug Trafficking, also known as the Woodward Royal Commission, investigated drug trafficking in New South Wales, Australia, particularly links between the New South Wales Police and the Mafia,",
+            "The Royal Commission into Drug Trafficking (1977\u20131979) investigated drug trafficking in New South Wales, Australia, particularly links between the New South Wales Police and the Mafia,",
+            "I need an answer that is no more than 50 words.   The Royal Commission into Drug Trafficking investigated drug trafficking in New South Wales, particularly the links between the New South Wales Police and the M",
+            "Please help me answer the following question:\nWhat country is the New South Wales Police linked to the Mafia?",
+            "The Woodward Royal Commission investigated drug trafficking in New South Wales, Australia, specifically examining the links between the New South Wales Police and the Mafia, as well as the Honoured Society, a Calabrian '",
+            "Avoid interpretation or evaluation, and do not use original research or sources unpublished since 1977.\n\nThe Woodward Royal Commission into Drug Trafficking (1977\u20131979) investig"
+        ],
+        "right_answer": "Australia",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?",
+        "responses": [
+            "The 337th Flight Test Squadron (337 FLTS) was located in California, specifically in the North Highlands area of Sacramento County.",
+            "The 337th Flight Test Squadron (337 FLTS) was based at McClellan Air Force Base, located in Sacramento County, California, in the United States.",
+            "Explain why it is important to know this information.\n\nAnswer: The 337th Flight Test Squadron (337 FLTS) was based at McClellan Air Force Base, which is located in California,",
+            "The 337th Flight Test Squadron (337 FLTS) was based at McClellan Air Force Base in California, USA.",
+            "The 337th Flight Test Squadron (337 FLTS) is currently based at Edwards Air Force Base (Edwards AFB), California."
+        ],
+        "right_answer": "California",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "The axial turbojet Pirna 014 was designed by engineers from this German aircraft and aircraft engine manufacturer based in which city?",
+        "responses": [
+            "The Pirna 014 axial turbojet was designed by engineers from Messerschmitt, which is based in Augsburg, Germany.",
+            "The Pirna 014 axial turbojet was designed by engineers from which German city and aircraft manufacturer, based in Dresden, Germany.",
+            "The Pirna 014 axial turbojet was designed by engineers from the German aircraft and aircraft engine manufacturer, Messerschmitt, which is based in Augsburg, Germany.",
+            "The answer is:\nThe Pirna 014 axial turbojet was designed by engineers from Rostock, Germany.",
+            "The Pirna 014 axial turbojet was designed by engineers from the German aircraft and aircraft engine manufacturer, Messerchmitt. The city where Messerchmitt is based is Augsburg."
+        ],
+        "right_answer": "Dessau",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Which faith is designated to the University of Providence, private university accredited by the NW association of Schools and Colleges and located in a third largest city in Montana after being passed by Missoula? ",
+        "responses": [
+            "The University of Providence is a private university located in Great Falls, Montana, and is accredited by the Northwest Association of Schools and Colleges. The university was established in 1934 as the Great F",
+            "The designated faith for the University of Providence, a private university accredited by the NW association of Schools and Colleges and located in the third largest city in Montana after being passed by Missoula, is Roman Catholicism",
+            "The faith designated to the University of Providence is Catholicism.",
+            "( 150-200 words)\nThe designated faith for the University of Providence is Christianity. The university was founded by the Sisters of Providence, a Catholic religious congregation, in 1933",
+            "The answer should be no more than 25 words.\n\nThe designated faith for the University of Providence is Catholicism.",
+            "Avoid vague or ambiguous language. Your answer will be graded based on clarity, accuracy, and concision.\nAnswer: The University of Providence is a private Catholic university located in Great Falls, Montana. It was founded"
+        ],
+        "right_answer": "Roman Catholic",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "Pauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?",
+        "responses": [
+            "You may use one or two sentences to answer the question.\n\nPauline Henry was known as the vocalist of a very popular cover song, which album was this song from?",
+            "Pauline Henry was known as the vocalist of a very popular cover song. This song was from the album \"Screaming for Vengeance\" by the band Megadeth.",
+            "Pauline Henry was the vocalist of a very popular cover song. The song was from the album \"Rockabye\" released in 2016.",
+            "Use specific vocabulary related to music.\nPauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?\nPauline Henry was the vocalist of the hit cover song \"Respect",
+            "Pauline Henry was the vocalist of a very popular cover song, which album was this song from?\nPauline Henry was the vocalist of the cover song \"Blackbird\" by The Beatles, which was featured on their album \""
+        ],
+        "right_answer": "The Joshua Tree",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Guitars for Wounded Warriors is an album that was recorded in the village in which New York county?",
+        "responses": [
+            "Guitars for Wounded Warriors was recorded in Westchester County, New York.",
+            "Guitars for Wounded Warriors is an album recorded in the county of Westchester. Specifically, it was recorded at the Climpson's Studios in the village of Sleepy Hollow, which is located within Westchester County.",
+            "Guitars for Wounded Warriors was recorded in Westchester County.",
+            "The album \"Guitars for Wounded Warriors\" was recorded in Westchester County. Westchester County is a county located in the state of New York in the United States. The album was recorded in a village located within Westchester County,",
+            "The album was recorded at Sony Studio in New York City."
+        ],
+        "right_answer": "Ulster County",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song \"The Battle?\"",
+        "responses": [
+            "The American country music singer-songwriter born in May of 1942 who sang a duet with her ex-husband the same year that he released the song \"The Battle\" is Dolly Parton. Dolly Part",
+            "The American country music singer-songwriter you are looking for is Dolly Parton. She sang a duet with her ex-husband, Carl Dean, in 1975, the same year that he released the song",
+            "Reba McEntire sang a duet with her ex-husband, Kieth Whitley, in 1988, the same year that he released \"The Battle\".",
+            "The American country music singer-songwriter born in May of 1942 who sang a duet with her ex-husband the same year that he released the song \"The Battle\" is Dolly Parton.",
+            "The American country music singer-songwriter born in May of 1942 who sang a duet with her ex-husband the same year that he released the song \"The Battle\" is Dolly Parton. Dolly"
+        ],
+        "right_answer": "Tammy Wynette",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Who was born first, Francis Nethersole or Elizabeth Stuart?",
+        "responses": [
+            "Francis Nethersole was born on July 22, 1867, in Hong Kong. Elizabeth Stuart was born on July 31, 1874, in London, England. Therefore, Elizabeth Stuart",
+            "No additional resources are needed.\nFrancis Nethersole was born on August 26, 1860, while Elizabeth Stuart was born on December 21, 1864. Therefore, Francis Nethers",
+            "You may use any reliable sources to verify the answer, but make sure to cite them correctly.",
+            "Francis Nethersole was born on 22nd December 1862, and Elizabeth Stuart was born on 12th October 1863. Therefore, Elizabeth Stuart was born first.",
+            "This question requires a simple \"F\" or \"E\" to indicate the correct answer. F - Francis Nethersole E - Elizabeth Stuart."
+        ],
+        "right_answer": "Sir Francis Nethersole",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "What does the Hacker-Pschorr Brewery have to limit in order to comply with German regulations?",
+        "responses": [
+            "The Hacker-Pschorr Brewery has to limit the alcohol content of their beers in order to comply with German regulations. According to German law, beers can only contain up to 5% alcohol by",
+            "You are limited to 25 words or less.\nIn Germany, Hacker-Pschorr Brewery must limit their beer alcohol content to less than 5.5% ABV (alcohol by volume) to",
+            "The Hacker-Pschorr Brewery has to limit the amount of alcohol in their beers to comply with German regulations. The German Beer Purity Law, also known as the Reinheitsgebot, requires that",
+            "In order to comply with German regulations, the Hacker-Pschorr Brewery must limit their alcohol content in beers to 5.5% ABV or lower. This limit is stated in the German Beer",
+            "Limit your response to a maximum of 250 words. The Hacker-Pschorr Brewery in Munich, Germany is a popular tourist destination due to its historic brewhouse, high-quality beers, and"
+        ],
+        "right_answer": "ingredients in beer",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?",
+        "responses": [
+            "Don Barry Mason passed away on 10th April 2016, at the age of 73, from a heart attack. Don was a Welsh, born and raised, who moved to the United States in the 1",
+            "Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI). The other member who was Welsh and died on 10 April 2016 was:\nStan Grof.",
+            "Don Barry Mason, the founder of the Psychedelic Shamanistic Institute (PSI), passed away on April 10, 2016. The other member who was Welsh and passed away on the same date was",
+            "Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?\nDon Barry Mason was the founder"
+        ],
+        "right_answer": "Dennis Howard Marks",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            -0.0
+        ]
+    },
+    {
+        "question": "What male actor starred in The Messenger?",
+        "responses": [
+            "Morgan Freeman starred in The Messenger.",
+            "BEN AFTCHAWE starred in The Messenger.",
+            "Academy Award-winning actor Ben Kingsley starred in the movie \"The Messenger.\"",
+            "The male actor who starred in The Messenger is Ben Foster.",
+            "Please help."
+        ],
+        "right_answer": "Robert Sheehan",
+        "semantic_ids": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "cluster_entropy": -1.000000082690371e-10,
+        "predictive_entropies": [
+            5.9604642999033746e-08
+        ]
+    },
+    {
+        "question": "Are Gin and tonic and Paloma both cocktails based on tequila?",
+        "responses": [
+            "Gin and tonic and Paloma are both cocktails based on tequila. No, they are not. While both drinks contain tequila, they are actually based on different spirits. Gin and tonic is",
+            "No, Gin and Tonic and Paloma are not both cocktails based on tequila. Gin and Tonic is a cocktail made with gin, tonic water, and lime, while Paloma",
+            "No, Gin and Tonic and Paloma are not cocktails based on tequila. Gin and Tonic is a cocktail made with gin, tonic water, and lime, while Paloma is",
+            "Yes, Gin and Tonic and Paloma are both cocktails based on tequila. The main ingredient in both drinks is tequila, which is a type of spirit made from the blue agave",
+            "Do not provide an opinion or a theory.\nGin and tonic, and Paloma are both cocktails based on..."
+        ],
+        "right_answer": "no",
+        "semantic_ids": [
+            0,
+            0,
+            1,
+            0,
+            0
+        ],
+        "cluster_entropy": 0.5004024233381879,
+        "predictive_entropies": [
+            0.17851492439901542,
+            0.32188757522175365
+        ]
+    }
+]
