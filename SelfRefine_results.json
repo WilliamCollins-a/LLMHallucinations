@@ -1,0 +1,408 @@
+{
+    "total_correct_answers": 18,
+    "total_hallucinated_answers": 32,
+    "accuracy_results": [
+        100.0,
+        50.0,
+        33.33333333333333,
+        50.0,
+        60.0,
+        66.66666666666666,
+        71.42857142857143,
+        75.0,
+        66.66666666666666,
+        60.0,
+        54.54545454545454,
+        50.0,
+        46.15384615384615,
+        50.0,
+        46.666666666666664,
+        43.75,
+        41.17647058823529,
+        38.88888888888889,
+        42.10526315789473,
+        40.0,
+        38.095238095238095,
+        40.909090909090914,
+        39.130434782608695,
+        37.5,
+        36.0,
+        34.61538461538461,
+        37.03703703703704,
+        39.285714285714285,
+        41.37931034482759,
+        43.333333333333336,
+        41.935483870967744,
+        40.625,
+        39.39393939393939,
+        38.23529411764706,
+        37.142857142857146,
+        36.11111111111111,
+        35.13513513513514,
+        34.21052631578947,
+        35.8974358974359,
+        37.5,
+        36.58536585365854,
+        38.095238095238095,
+        37.2093023255814,
+        36.36363636363637,
+        35.55555555555556,
+        36.95652173913043,
+        36.17021276595745,
+        35.41666666666667,
+        36.734693877551024,
+        36.0
+    ],
+    "question_responses": [
+        {
+            "question": "Which magazine was started first Arthur's Magazine or First for Women?",
+            "initial_answer": "Arthur's Magazine (1844\u20131846) was an American literary periodical published in Philadelphia in the 19th century",
+            "refined_answer": "Arthur's Magazine (1844\u20131846) was an American literary periodical published in Philadelphia in the 19th century",
+            "correct_answer": "Arthur's Magazine",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "The Oberoi family is part of a hotel company that has a head office in what city?",
+            "initial_answer": "The Oberoi family is an Indian family that is famous for its involvement in hotels, namely through The Oberoi Group",
+            "refined_answer": "The Oberoi family is an Indian family that is famous for its involvement in hotels, namely through The Oberoi Group",
+            "correct_answer": "Delhi",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Musician and satirist Allie Goertz wrote a song about the \"The Simpsons\" character Milhouse, who Matt Groening named after who?",
+            "initial_answer": "Allison Beth \"Allie\" Goertz (born March 2, 1991) is an American musician",
+            "refined_answer": "Allison Beth \"Allie\" Goertz (born March 2, 1991) is an American musician",
+            "correct_answer": "President Richard Nixon",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": " What nationality was James Henry Miller's wife?",
+            "initial_answer": "Margaret \"Peggy\" Seeger (born June 17, 1935) is an American folksinger",
+            "refined_answer": "Margaret \"Peggy\" Seeger (born June 17, 1935) is an American folksinger",
+            "correct_answer": "American",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Cadmium Chloride is slightly soluble in this chemical, it is also called what?",
+            "initial_answer": "It is a hygroscopic solid that is highly soluble in water and slightly soluble in alcohol",
+            "refined_answer": "It is a hygroscopic solid that is highly soluble in water and slightly soluble in alcohol",
+            "correct_answer": "alcohol",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Which tennis player won more Grand Slam titles, Henri Leconte or Jonathan Stark?",
+            "initial_answer": "Jonathan Stark (born April 3, 1971) is a former professional tennis player from the United States",
+            "refined_answer": "Jonathan Stark (born April 3, 1971) is a former professional tennis player from the United States",
+            "correct_answer": "Jonathan Stark",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Which genus of moth in the world's seventh-largest country contains only one species?",
+            "initial_answer": "Indogrammodes is a genus of moths of the Crambidae family",
+            "refined_answer": "Indogrammodes is a genus of moths of the Crambidae family",
+            "correct_answer": "Crambidae",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Who was once considered the best kick boxer in the world, however he has been involved in a number of controversies relating to his \"unsportsmanlike conducts\" in the sport and crimes of violence outside of the ring.",
+            "initial_answer": "Fighters from around world on the roster include Badr Hari, Peter Aerts, Peter Graham, Dewey Cooper, Zabit Samedov",
+            "refined_answer": "Fighters from around world on the roster include Badr Hari, Peter Aerts, Peter Graham, Dewey Cooper, Zabit Samedov",
+            "correct_answer": "Badr Hari",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "The Dutch-Belgian television series that \"House of Anubis\" was based on first aired in what year?",
+            "initial_answer": "House of Anubis is a mystery television series developed for Nickelodeon based on the Dutch-Belgian television series \"Het Huis Anubis\"",
+            "refined_answer": "House of Anubis is a mystery television series developed for Nickelodeon based on the Dutch-Belgian television series \"Het Huis Anubis\"",
+            "correct_answer": "2006",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "What is the length of the track where the 2013 Liqui Moly Bathurst 12 Hour was staged?",
+            "initial_answer": "The 2013 Liqui Moly Bathurst 12 Hour was an endurance race for a variety of GT and touring car classes, including: GT3 cars, GT4 cars, Group 3E Series Production Cars and Dubai 24 Hour cars",
+            "refined_answer": "The 2013 Liqui Moly Bathurst 12 Hour was an endurance race for a variety of GT and touring car classes, including: GT3 cars, GT4 cars, Group 3E Series Production Cars and Dubai 24 Hour cars",
+            "correct_answer": "6.213 km long",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?",
+            "initial_answer": "Vocals are handled by Aesop Rock, with guest appearances from Camu Tao and Metro of S",
+            "refined_answer": "Vocals are handled by Aesop Rock, with guest appearances from Camu Tao and Metro of S",
+            "correct_answer": "Jaime Meline",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Gunmen from Laredo starred which narrator of \"Frontier\"?",
+            "initial_answer": "Gunmen from Laredo is a 1959 American western film produced and directed by Wallace MacDonald, which stars Robert Knapp, Maureen Hingert, and Walter Coy",
+            "refined_answer": "Gunmen from Laredo is a 1959 American western film produced and directed by Wallace MacDonald, which stars Robert Knapp, Maureen Hingert, and Walter Coy",
+            "correct_answer": "Walter Darwin Coy",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Where did the form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt originate?",
+            "initial_answer": "Die Rh\u00f6ner S\u00e4uw\u00e4ntzt are a Skiffle-Bluesband from Eichenzell-L\u00fctter in Hessen, Germany",
+            "refined_answer": "Die Rh\u00f6ner S\u00e4uw\u00e4ntzt are a Skiffle-Bluesband from Eichenzell-L\u00fctter in Hessen, Germany",
+            "correct_answer": "United States",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "In which American football game was Malcolm Smith named Most Valuable player?",
+            "initial_answer": "Smith was named the Most Valuable Player of Super Bowl XLVIII after they defeated the Denver Broncos",
+            "refined_answer": "Smith was named the Most Valuable Player of Super Bowl XLVIII after they defeated the Denver Broncos",
+            "correct_answer": "Super Bowl XLVIII",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "What U.S Highway gives access to Zilpo Road, and is also known as Midland Trail?",
+            "initial_answer": "The nine mile byway starts south of Morehead, Kentucky and can be accessed by U",
+            "refined_answer": "The nine mile byway starts south of Morehead, Kentucky and can be accessed by U",
+            "correct_answer": "US 60",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "The 1988 American comedy film, The Great Outdoors, starred a four-time Academy Award nominee, who received a star on the Hollywood Walk of Fame in what year?",
+            "initial_answer": "The Great Outdoors is a 1988 American comedy film directed by Howard Deutch, and written and produced by John Hughes",
+            "refined_answer": "The Great Outdoors is a 1988 American comedy film directed by Howard Deutch, and written and produced by John Hughes",
+            "correct_answer": "2006",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "What are the names of the current members of  American heavy metal band who wrote the music for  Hurt Locker The Musical? ",
+            "initial_answer": "The Playbills, which describe the musical as having \"explosions, negligible storytelling, camouflage and tits\", also state that the musical's cast included actors such as Taye Diggs (who would go on to play the role of Hedwig in the summer of 2015) and that the music was written by Metallica and Stephen R",
+            "refined_answer": "The Playbills, which describe the musical as having \"explosions, negligible storytelling, camouflage and tits\", also state that the musical's cast included actors such as Taye Diggs (who would go on to play the role of Hedwig in the summer of 2015) and that the music was written by Metallica and Stephen R",
+            "correct_answer": "Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Human Error\" is the season finale of the third season of a tv show that aired on what network?",
+            "initial_answer": "\"Human Error\" is the twenty-fourth episode and season finale of the third season of \"House\" and the seventieth episode overall",
+            "refined_answer": "\"Human Error\" is the twenty-fourth episode and season finale of the third season of \"House\" and the seventieth episode overall",
+            "correct_answer": "Fox",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Dua Lipa, an English singer, songwriter and model, the album spawned the number-one single \"New Rules\" is a song by English singer Dua Lipa from her eponymous debut studio album, released in what year?",
+            "initial_answer": "Her self-titled debut studio album was released on 2 June 2017",
+            "refined_answer": "Her self-titled debut studio album was released on 2 June 2017",
+            "correct_answer": "2017",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "American politician Joe Heck ran unsuccessfully against Democrat Catherine Cortez Masto, a woman who previously served as the 32nd Attorney General of where?",
+            "initial_answer": "Joseph John \u201cJoe\u201d Heck (born October 30, 1961) is an American politician, physician, and U",
+            "refined_answer": "Joseph John \u201cJoe\u201d Heck (born October 30, 1961) is an American politician, physician, and U",
+            "correct_answer": "Nevada",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Which state does the drug stores, of which the CEO is Warren Bryant, are located?",
+            "initial_answer": "Warren Bryant was the CEO of Longs Drugs Store Corporation out of California prior to the retail chain's acquisition by CVS/Caremark",
+            "refined_answer": "Warren Bryant was the CEO of Longs Drugs Store Corporation out of California prior to the retail chain's acquisition by CVS/Caremark",
+            "correct_answer": "Hawaii",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Which  American politician did Donahue replaced ",
+            "initial_answer": "Donahue replaced Kelli Ward who resigned to run for the United States Senate",
+            "refined_answer": "Donahue replaced Kelli Ward who resigned to run for the United States Senate",
+            "correct_answer": "Kelli Ward",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Which band was founded first, Hole, the rock band that Courtney Love was a frontwoman of, or The Wolfhounds?",
+            "initial_answer": "Courtney Michelle Love (born Courtney Michelle Harrison; July 9, 1964) is an American singer, songwriter, actress, and visual artist",
+            "refined_answer": "Courtney Michelle Love (born Courtney Michelle Harrison; July 9, 1964) is an American singer, songwriter, actress, and visual artist",
+            "correct_answer": "The Wolfhounds",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "How old is the female main protagonist of Catching Fire?",
+            "initial_answer": "Catching Fire is a 2009 science fiction young adult novel by the American novelist Suzanne Collins, the second book in \"The Hunger Games trilogy\"",
+            "refined_answer": "Catching Fire is a 2009 science fiction young adult novel by the American novelist Suzanne Collins, the second book in \"The Hunger Games trilogy\"",
+            "correct_answer": "16-year-old",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Chang Ucchin was born in korea during a time that ended with the conclusion of what? ",
+            "initial_answer": "Chang was born when Korea was still under Japanese colonial rule",
+            "refined_answer": "Chang was born when Korea was still under Japanese colonial rule",
+            "correct_answer": "World War II",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Who is the director of the 2003 film which has scenes in it filmed at the Quality Cafe in Los Angeles?",
+            "initial_answer": "The Quality Cafe (also known as Quality Diner) is a now-defunct diner at 1236 West 7th Street in Los Angeles, California",
+            "refined_answer": "The Quality Cafe (also known as Quality Diner) is a now-defunct diner at 1236 West 7th Street in Los Angeles, California",
+            "correct_answer": "Todd Phillips",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "New Faces of 1952 is a musical revue with songs and comedy skits, it helped jump start the career of which young performer, and American actress?",
+            "initial_answer": "It helped jump start the careers of several young performers including Paul Lynde, Alice Ghostley, Eartha Kitt, Robert Clary, Carol Lawrence, Ronny Graham, performer/writer Mel Brooks (as Melvin Brooks), and lyricist Sheldon Harnick",
+            "refined_answer": "It helped jump start the careers of several young performers including Paul Lynde, Alice Ghostley, Eartha Kitt, Robert Clary, Carol Lawrence, Ronny Graham, performer/writer Mel Brooks (as Melvin Brooks), and lyricist Sheldon Harnick",
+            "correct_answer": "Carol Lawrence",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Were Pavel Urysohn and Leonid Levin known for the same type of work?",
+            "initial_answer": "Pavel Samuilovich Urysohn (\u041f\u0430\u0301\u0432\u0435\u043b \u0421\u0430\u043c\u0443\u0438\u0301\u043b\u043e\u0432\u0438\u0447 \u0423\u0440\u044b\u0441\u043e\u0301\u043d ) (February 3, 1898 \u2013 August 17, 1924) was a Soviet mathematician of Jewish origin who is best known for his contributions in dimension theory, and for developing Urysohn's Metrization Theorem and Urysohn's Lemma, both of which are fundamental results in topology",
+            "refined_answer": "Pavel Samuilovich Urysohn (\u041f\u0430\u0301\u0432\u0435\u043b \u0421\u0430\u043c\u0443\u0438\u0301\u043b\u043e\u0432\u0438\u0447 \u0423\u0440\u044b\u0441\u043e\u0301\u043d ) (February 3, 1898 \u2013 August 17, 1924) was a Soviet mathematician of Jewish origin who is best known for his contributions in dimension theory, and for developing Urysohn's Metrization Theorem and Urysohn's Lemma, both of which are fundamental results in topology",
+            "correct_answer": "no",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Are both The New Pornographers and Kings of Leon American rock bands?",
+            "initial_answer": "The New Pornographers is a Canadian indie rock band formed in 1997 in Vancouver, British Columbia",
+            "refined_answer": "The New Pornographers is a Canadian indie rock band formed in 1997 in Vancouver, British Columbia",
+            "correct_answer": "no",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "750 7th Avenue and 101 Park Avenue, are located in which city?",
+            "initial_answer": "750 Seventh Avenue is a 615 ft (187m) tall Class-A office skyscraper in New York City",
+            "refined_answer": "750 Seventh Avenue is a 615 ft (187m) tall Class-A office skyscraper in New York City",
+            "correct_answer": "New York City",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Which actress played the part of fictitious character Kimberly Ann Hart, in the franchise built around a live action superhero television series taking much of its footage from the Japanese tokusatsu 'Super Sentai'?",
+            "initial_answer": "Kimberly Ann Hart is a fictitious character in the \"Power Rangers\" universe",
+            "refined_answer": "Kimberly Ann Hart is a fictitious character in the \"Power Rangers\" universe",
+            "correct_answer": "Amy Jo Johnson",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Who was born first, Pablo Trapero or Aleksander Ford?",
+            "initial_answer": "Pablo Trapero (Born 4 October 1971) is an Argentine film producer, editor and director",
+            "refined_answer": "Pablo Trapero (Born 4 October 1971) is an Argentine film producer, editor and director",
+            "correct_answer": "Aleksander Ford",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Are Jane and First for Women both women's magazines?",
+            "initial_answer": "Jane was an American magazine created to appeal to the women who grew up reading \"Sassy Magazine\"; Jane Pratt was the founding editor of each",
+            "refined_answer": "Jane was an American magazine created to appeal to the women who grew up reading \"Sassy Magazine\"; Jane Pratt was the founding editor of each",
+            "correct_answer": "yes",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "What profession does Nicholas Ray and Elia Kazan have in common?",
+            "initial_answer": "Nicholas Ray (born Raymond Nicholas Kienzle Jr",
+            "refined_answer": "Nicholas Ray (born Raymond Nicholas Kienzle Jr",
+            "correct_answer": "director",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Where is the company that purchased Aixam based in?",
+            "initial_answer": "On April 11, 2013, US based Polaris Industries announced that it had acquired Aixam-Mega",
+            "refined_answer": "On April 11, 2013, US based Polaris Industries announced that it had acquired Aixam-Mega",
+            "correct_answer": "Roseau, Minnesota, USA",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Which documentary is about Finnish rock groups, Adam Clayton Powell or The Saimaa Gesture?",
+            "initial_answer": "Adam Clayton Powell is a 1989 American documentary film directed by Richard Kilberg about the civil rights leader",
+            "refined_answer": "Adam Clayton Powell is a 1989 American documentary film directed by Richard Kilberg about the civil rights leader",
+            "correct_answer": "The Saimaa Gesture",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Who was inducted into the Rock and Roll Hall of Fame, David Lee Roth or Cia Berg?",
+            "initial_answer": "Cia Berg (born 2 December 1963), now known as Cia Soro, is a Swedish television presenter and singer",
+            "refined_answer": "Cia Berg (born 2 December 1963), now known as Cia Soro, is a Swedish television presenter and singer",
+            "correct_answer": "David Lee Roth",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Zimbabwe's Guwe Secondary School has a sister school in what New York cunty?",
+            "initial_answer": "It has a sister school in Carle Place, New York, United States",
+            "refined_answer": "It has a sister school in Carle Place, New York, United States",
+            "correct_answer": "Nassau County",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "The Royal Commission into Drug Trafficking (1977\u20131979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the New South Wales Police and Mafia, The Honoured Society, is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in all of which country?  ",
+            "initial_answer": "The Royal Commission into Drug Trafficking (1977\u20131979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the Mafia and New South Wales Police and the disappearance of anti-marijuana campaigner Donald Mackay",
+            "refined_answer": "The Royal Commission into Drug Trafficking (1977\u20131979) or Woodward Royal Commission was a royal commission initiated by the New South Wales Government to investigate drug trafficking in New South Wales, Australia, especially links between the Mafia and New South Wales Police and the disappearance of anti-marijuana campaigner Donald Mackay",
+            "correct_answer": "Australia",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?",
+            "initial_answer": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, California",
+            "refined_answer": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, California",
+            "correct_answer": "California",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "The axial turbojet Pirna 014 was designed by engineers from this German aircraft and aircraft engine manufacturer based in which city?",
+            "initial_answer": "The Pirna 014 was an axial turbojet designed in East Germany (or the GDR) in the mid- to late 1950s by former Junkers engineers, who were repatriated to East Germany in 1954 after being held in custody in the Soviet Union following World War II",
+            "refined_answer": "The Pirna 014 was an axial turbojet designed in East Germany (or the GDR) in the mid- to late 1950s by former Junkers engineers, who were repatriated to East Germany in 1954 after being held in custody in the Soviet Union following World War II",
+            "correct_answer": "Dessau",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Which faith is designated to the University of Providence, private university accredited by the NW association of Schools and Colleges and located in a third largest city in Montana after being passed by Missoula? ",
+            "initial_answer": "The University of Providence (UP) (renamed from University of Great Falls in July 2017), is a private Roman Catholic university located in Great Falls, Montana within the Diocese of Great Falls\u2013Billings",
+            "refined_answer": "The University of Providence (UP) (renamed from University of Great Falls in July 2017), is a private Roman Catholic university located in Great Falls, Montana within the Diocese of Great Falls\u2013Billings",
+            "correct_answer": "Roman Catholic",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Pauline Henry was known as the vocalist of a very popular cover song. Which album was this song from?",
+            "initial_answer": "Pauline Henry (born 29 January 1961) is a British Jamaican recording artist",
+            "refined_answer": "Pauline Henry (born 29 January 1961) is a British Jamaican recording artist",
+            "correct_answer": "The Joshua Tree",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Guitars for Wounded Warriors is an album that was recorded in the village in which New York county?",
+            "initial_answer": "All tracks were recorded at Tarquin's Jungle Room Studios in New Paltz (village), New York",
+            "refined_answer": "All tracks were recorded at Tarquin's Jungle Room Studios in New Paltz (village), New York",
+            "correct_answer": "Ulster County",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song \"The Battle?\"",
+            "initial_answer": "\"The Battle\" is a song by American country music artist George Jones",
+            "refined_answer": "\"The Battle\" is a song by American country music artist George Jones",
+            "correct_answer": "Tammy Wynette",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Who was born first, Francis Nethersole or Elizabeth Stuart?",
+            "initial_answer": "Sir Francis Nethersole (1587\u20131659) was an English diplomat, secretary to the Electress Elizabeth, Member of Parliament for Corfe Castle, Dorset, and a Civil War political pamphleteer",
+            "refined_answer": "Sir Francis Nethersole (1587\u20131659) was an English diplomat, secretary to the Electress Elizabeth, Member of Parliament for Corfe Castle, Dorset, and a Civil War political pamphleteer",
+            "correct_answer": "Sir Francis Nethersole",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "What does the Hacker-Pschorr Brewery have to limit in order to comply with German regulations?",
+            "initial_answer": "Hacker-Pschorr is a brewery in Munich, formed in 1972 out of the merger of two breweries, Hacker and Pschorr",
+            "refined_answer": "Hacker-Pschorr is a brewery in Munich, formed in 1972 out of the merger of two breweries, Hacker and Pschorr",
+            "correct_answer": "ingredients in beer",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "Don Barry Mason was the founder of the Psychedelic Shamanistic Institute (PSI), which other member that's Welsh, that died on 10 April 2016?",
+            "initial_answer": "Associates of PSI include: Mathew Atha, Colin Angus, Brian Barritt, Michael Carmichael, Fraser Clark, Paul Devereux, the late John Entwistle, Paul Flynn MP, Ben Ganly, Lee Harris, Mike Jay, Howard Marks, Dr John Marks, Jonathan Ott, Dr Russell Newcombe, Richard Rudgley and Youth",
+            "refined_answer": "Associates of PSI include: Mathew Atha, Colin Angus, Brian Barritt, Michael Carmichael, Fraser Clark, Paul Devereux, the late John Entwistle, Paul Flynn MP, Ben Ganly, Lee Harris, Mike Jay, Howard Marks, Dr John Marks, Jonathan Ott, Dr Russell Newcombe, Richard Rudgley and Youth",
+            "correct_answer": "Dennis Howard Marks",
+            "evaluation": "Incorrect"
+        },
+        {
+            "question": "What male actor starred in The Messenger?",
+            "initial_answer": "The Messenger is a 2015 British supernatural mystery horror film directed by David Blair, written by Andrew Kirk and starring Robert Sheehan and Lily Cole",
+            "refined_answer": "The Messenger is a 2015 British supernatural mystery horror film directed by David Blair, written by Andrew Kirk and starring Robert Sheehan and Lily Cole",
+            "correct_answer": "Robert Sheehan",
+            "evaluation": "Correct"
+        },
+        {
+            "question": "Are Gin and tonic and Paloma both cocktails based on tequila?",
+            "initial_answer": "A gin and tonic is a highball cocktail made with gin and tonic water poured over ice",
+            "refined_answer": "A gin and tonic is a highball cocktail made with gin and tonic water poured over ice",
+            "correct_answer": "no",
+            "evaluation": "Incorrect"
+        }
+    ]
+}
